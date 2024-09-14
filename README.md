@@ -1,6 +1,7 @@
 # Heart Disease Prediction Model
 
-![Heart Disease Prediction]([path_to_your_image.png](https://www.rheumatologyadvisor.com/wp-content/uploads/sites/18/2020/01/heart-anatomy_G_530199842.jpg))
+![Heart Disease Prediction](https://media.clinicaladvisor.com/images/2017/03/29/heartillustrationts51811362_1191108.jpg)
+
 This project is focused on building a machine learning model to predict heart disease using a preprocessed heart dataset. The dataset contains various health indicators that are useful for determining the likelihood of heart disease.
 
 ## Models and Accuracy
